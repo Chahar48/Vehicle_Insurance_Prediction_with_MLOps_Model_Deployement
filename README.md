@@ -1,2 +1,2 @@
-# Vehicle_Insurance_Prediction_with_MLOps_Model_Deployement
+# Vehicle Insurance Prediction with MLOps Model Deployement
 To predict the Vehicle Insurance
